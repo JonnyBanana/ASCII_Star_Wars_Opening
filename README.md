@@ -1,7 +1,7 @@
 # ASCII_Star_Wars_Opening
-An OLD SCHOOL STYLE ascii STAR WARS Opening theme, written in PowerShell.
+<b>An OLD SCHOOL STYLE ascii STAR WARS Opening theme, written in PowerShell.</b>
 
-
+</BR></BR>
 
 See on Youtube Here:
 </BR>
