@@ -49,7 +49,7 @@ function Opening
 	copy music\opening.mp3 C:\
 	Add-Type -AssemblyName presentationCore
 	$mediaPlayer = New-Object system.windows.media.mediaplayer
-	$mediaPlayer.open("$env:USERPROFILE\Desktop\StarWarsOpening\music\opening.mp3")
+	$mediaPlayer.open("C:\opening.mp3")
 	$mediaPlayer.Play()
 	Start-Sleep -s 1
 	Write-Host 
