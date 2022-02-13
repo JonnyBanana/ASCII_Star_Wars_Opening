@@ -1,5 +1,5 @@
 #ASCII POWERSHELL STAR WARS OPENING
-#By JonnyBanana - Bolona - Italy - 2022
+#By JonnyBanana - Bologna - Italy - 2022
 #https://github.com/JonnyBanana
 cmd.exe /c mode con:cols=72 lines=34
 cmd.exe /c color 0e
